@@ -17,5 +17,5 @@ Hoy Hoy, My name is Mohcen, I'm signal \& Image processing engineer graduated fr
 <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&color=lightgrey">&nbsp;
 
 ### Find me in
-<a href="https://zindi.africa/users/mohcenaouadj"><img src="https://img.shields.io/static/v1?label=link to&message=My Zindi Account&color=orange"></a>
+<a href="https://zindi.africa/users/mohcenaouadj"><img src="https://img.shields.io/static/v1?label= &message=Zindi &color=orange"></a>
 <a href="https://www.linkedin.com/in/mohcen-aouadj-10a740149/"><img src="https://img.shields.io/static/v1?label=&logo=linkedin&message=linkedin&color=blue"></a>
