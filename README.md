@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**mohcenaouadj/mohcenaouadj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 Hoy Hoy, My name is Mohcen, I'm signal \& Image processing engineer graduated from National Polytechnic School of Algiers.
 
 - 🔭 My journey in AI \& Data science started in Jan 2022. 
