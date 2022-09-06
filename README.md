@@ -8,7 +8,7 @@ Hoy Hoy, My name is Mohcen, I'm signal \& Image processing engineer graduated fr
 - 💬 I have a strong knowledge in statitics \& probalities, ask me if you need help 
 - 📫 How to reach me: mohcen.aouadj@g.enp.edu.dz 
 - ⚡ Fun fact: I wish I was on SNL show :laughing:
-- :musical_note: Check : KISS - Shout It Out Loud :boom:
+- :musical_note: Check -> **KISS - Shout It Out Loud** :boom:
 
 ### Main Tools 
 <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&color=lightgrey">&nbsp;
