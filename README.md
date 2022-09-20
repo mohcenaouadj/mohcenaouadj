@@ -2,8 +2,8 @@
 
 My name is Mohcen, I'm signal \& Image processing engineer graduated from National Polytechnic School of Algiers.
 
-- 🔭 My journey in AI \& Data science started in Jan 2022. 
-- 🌱 I’m currently working as AI & Data science Freelancer.
+- 🔭 My journey in AI started in Jan 2022. 
+- 🌱 I’m currently working as AI & Computer Vision Freelancer.
 - 👯 I’m looking to collaborate on Computer Vision projects -- academic \& technical :star:
 - 💬 I have a strong knowledge in maths, statitics \& probalities, ask me if you need help 
 - 📫 How to reach me: mohcen.aouadj@g.enp.edu.dz 
