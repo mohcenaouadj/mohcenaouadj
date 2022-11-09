@@ -17,4 +17,4 @@ My name is Mohcen, I'm signal \& Image processing engineer graduated from Nation
 
 ### Find me in
 <a href="https://zindi.africa/users/mohcenaouadj"><img src="https://img.shields.io/static/v1?label= &message=Zindi &color=orange"></a>
-<a href="https://www.linkedin.com/in/mohcen-aouadj-10a740149/"><img src="https://img.shields.io/static/v1?label=&logo=linkedin&message=linkedin&color=blue"></a>
+<a href="https://www.linkedin.com/in/mohcenaouadj/"><img src="https://img.shields.io/static/v1?label=&logo=linkedin&message=linkedin&color=blue"></a>
