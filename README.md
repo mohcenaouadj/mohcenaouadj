@@ -3,12 +3,11 @@
 My name is Mohcen, I'm signal \& Image processing engineer graduated from National Polytechnic School of Algiers.
 
 - 🔭 My journey in AI started in Jan 2022. 
-- 🌱 I’m currently working as AI & Computer Vision Freelancer.
-- 👯 I’m looking to collaborate on Computer Vision projects -- academic \& technical :star:
+- 🌱 I’m currently working as Data science Freelancer.
+- 👯 I’m looking to collaborate on Computer Vision & medical imagining projects :star:
 - 💬 I have a strong knowledge in maths, statitics \& probalities, ask me if you need help 
 - 📫 How to reach me: mohcen.aouadj@g.enp.edu.dz 
 - ⚡ Fun fact: I wish I was on SNL show :laughing:
-- :musical_note: Check -> **KISS - Shout It Out Loud** :boom:
 
 ### Main Tools 
 <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&color=lightgrey">&nbsp;
