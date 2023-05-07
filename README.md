@@ -4,7 +4,7 @@ My name is Mohcen, I'm signal \& Image processing engineer graduated from Nation
 
 - 🔭 My journey in AI started in Jan 2022. 
 - 🌱 I’m currently working as Data science Freelancer.
-- 👯 I’m looking to collaborate on Computer Vision & medical imagining projects :star:
+- 👯 I’m looking to collaborate on Image & Speech projects :star:
 - 💬 I have a strong knowledge in maths, statitics \& probalities, ask me if you need help 
 - 📫 How to reach me: mohcen.aouadj@g.enp.edu.dz 
 - ⚡ Fun fact: I wish I was on SNL show :laughing:
