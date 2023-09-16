@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Mohcen, I'm signal \& Image processing engineer graduated from National Polytechnic School of Algiers.
+My name is Mohcen, I'm computer Vision student in Aix-Marseille University.
 
-- 🔭 My journey in AI started in Jan 2022. 
+- 🔭 My journey in AI started in Jan 2022 while I was a student at National Polytechnic School of Algiers. 
 - 🌱 I’m currently working as AI freelance engineer.
 - 👯 I’m looking to collaborate on Image, Speech & NLP projects :star:
 - 💬 I have a strong knowledge in maths, statitics \& probalities, ask me if you need help 
