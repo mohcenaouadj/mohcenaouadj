@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Mohcen, I'm computer Vision student in Aix-Marseille University.
+My name is Mohcen, I'm a computer Vision student in Aix-Marseille University.
 
 - 🔭 My journey in AI started in Jan 2022 while I was a student at National Polytechnic School of Algiers. 
 - 🌱 I’m currently working as AI freelance engineer.
