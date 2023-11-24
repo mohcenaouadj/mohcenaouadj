@@ -6,7 +6,7 @@ My name is Mohcen, I'm a computer Vision student in Aix-Marseille University.
 - 🌱 I’m currently working as AI freelance engineer.
 - 👯 I’m looking to collaborate on Image, Speech & NLP projects :star:
 - 💬 I have a strong knowledge in maths, statitics \& probalities, ask me if you need help 
-- 📫 How to reach me: mohcen.aouadj@g.enp.edu.dz 
+- 📫 How to reach me: pro.mohcen.aouadj@gmail.com 
 - ⚡ Fun fact: I wish I was on SNL show :laughing:
 
 ### Main Tools 
