@@ -3,7 +3,7 @@
 My name is Mohcen, I'm a computer Vision student in Aix-Marseille University.
 
 - 🔭 My journey in AI started in Jan 2022 while I was a student at National Polytechnic School of Algiers. 
-- 🌱 I’m currently a 3D Reconstruction Engineer at Dassault Systèmes.
+- 🌱 I’m currently a 3D Reconstruction Engineer.
 - 👯 I’m looking to collaborate on 3D reconstruction, Visual odometry, Computer vision projects :star:
 - 📫 How to reach me: pro.mohcen.aouadj@gmail.com 
 
