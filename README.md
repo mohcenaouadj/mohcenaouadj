@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-First of all, FREE PALESTINE.
+First of all, FREE PALESTINE.  
+
 My name is Mohcen, I'm a computer Vision engineer graduated from Aix-Marseille University.
 
 - 🔭 My journey in AI started in Jan 2022 while I was a student at National Polytechnic School of Algiers in Electronics major. 
